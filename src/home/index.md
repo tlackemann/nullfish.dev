@@ -1,4 +1,4 @@
-# Living off the land
+# Home
 
 In 2023, my wife and I purchased our forever home in central New Jersey.
 
