@@ -11,6 +11,14 @@ the future but it should suffice for if this carries through winter.
 I've been tracking my costs and yields in a Google Sheet. I'm excited for the first harvest!
 
 ![Microgreens Google Sheet](../images/microgreens-sheet-fs8.png)
-
+*The Google Sheet tracks inventory, costs, and yields.*
 
 ![Microgreen setup](../images/microgreens-fs8.png)
+*Humble microgreen beginnings*
+
+## Currently growing
+
+* Broccoli - Waitham 29
+* Radish - Daikon Minowase
+* Turnip - Purple Top White Globe
+* Spicy Salad Mix
