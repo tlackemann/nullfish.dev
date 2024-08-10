@@ -5,7 +5,7 @@
   - [Chickens]()
   - [Composting]()
   - [Gardening](home/gardening.md)
-  - [Microgreens]()
+  - [Microgreens](home/microgreens.md)
   - [Mushroom Farming]()
   - [Tractor]()
   - [Security](home/security.md)
