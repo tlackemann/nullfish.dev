@@ -6,7 +6,10 @@ I do not have social media, but you can send me an email at hello[at]nullfish[do
 
 <center>
     <img src="images/nullfish-fs8.png" alt="nullfish.dev" height="64" width="auto" style="margin-top: 3em;">
+
+*I don't really like seafood.*
 </center>
+
 
 ## Work
 
