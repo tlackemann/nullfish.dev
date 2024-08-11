@@ -31,20 +31,28 @@ next tile is a combination (refractor), and/or if a goal is reached.
 On each turn, all goals are checked for completion. When all goals are completed, the game state is set to complete and
 the puzzle ends.
 
-#### Admin
+### Admin
 
 I built a small admin in Filament to view player and puzzle stats. That's really all it does at the moment.
 
 ![Refractor admin](../../images/refractor-admin-fs8.png)
 
-#### Editor
+### Editor
 
 As an admin, I have access to an editor which is driven entirely by shortcuts only I know. The editor looks exactly like
 the play screen but I've enabled keyboard shortcuts to place colored tiles, refractors, and goals. For example, I can
 hover over a tile and press "x" multiple times to cycle through the available refractor styles. Additionally, I can
 press "space" to clear the tile.
 
-#### Hosting
+### Hosting
 
 Refractor is hosted on [Fly.io](https://fly.io). I'm a fan. It's easy, simple, and cheap. Refractor costs a little over
 $6/month to host, including the distributed SQLite database.
+
+## Future Plans
+
+I really need to make a maze generator. Right now, I'm creating all puzzles by hand the night (or a couple nights)
+before.
+
+It's not too hard, and I enjoy doing it, but I'm also missing out on the fun of a daily puzzle. Creating a maze
+generator would allow me to generate an infinite number of puzzles without additional effort.

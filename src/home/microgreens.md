@@ -22,3 +22,9 @@ I've been tracking my costs and yields in a Google Sheet. I'm excited for the fi
 * Radish - Daikon Minowase
 * Turnip - Purple Top White Globe
 * Spicy Salad Mix
+
+## Future Plans
+
+I would love to begin tracking the humidity and temperature of the growing room. I don't think tweaking these will
+affect growing too much but it would be a neat data point to have. Additionally, I'm interested in creating a small
+application (see [Bootstrapping](../programming/bootstrapping.md)) to make my spreadsheet a bit easier to manage.
