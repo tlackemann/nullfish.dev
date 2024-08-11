@@ -33,7 +33,9 @@ the puzzle ends.
 
 #### Admin
 
-I built a small admin in Filament to view player stats. That's really all it does at the moment.
+I built a small admin in Filament to view player and puzzle stats. That's really all it does at the moment.
+
+![Refractor admin](../../images/refractor-admin-fs8.png)
 
 #### Editor
 
