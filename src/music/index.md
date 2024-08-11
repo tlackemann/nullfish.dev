@@ -4,3 +4,23 @@ A few years back I got really into modular synthesizers. I still am very much in
 far less time to experiment recently.
 
 You can listen to some of my modular recordings on YouTube as [Learning Machines](./learning-machines.md)
+
+## Gear
+
+### Synths
+- microKORG
+- Yamaha RY20 Drum Machine
+
+### Pedals
+- Chase Bliss Habits
+- Electo-harmonix Canyon
+
+### Controllers
+- Midi Fighter Twister
+
+### Input/Output
+- Scarlett Solo (2nd Gen) + Rolls MB15b Promatch 2-Way Stereo Converter
+- JBL 3 Series MKII Studio Monitors
+
+### Guitar/Basses
+- Jackson JS Series Dinky JS32 DKAP Guitar
