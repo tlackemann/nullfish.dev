@@ -5,7 +5,7 @@ I'm Tom. In 1998, I published my first website. 25-years later, I am still creat
 I do not have social media, but you can send me an email at hello[at]nullfish[dot]dev.
 
 <center>
-    <img src="images/nullfish-fs8.png" alt="nullfish.dev" height="64" width="auto" style="margin-top: 3em;">
+    <img src="/images/nullfish-fs8.png" alt="nullfish.dev" height="64" width="auto" style="margin-top: 3em;">
 
 *I don't really like seafood.*
 </center>

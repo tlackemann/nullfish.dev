@@ -19,6 +19,8 @@ default-theme = "ayu"
 preferred-dark-theme = "ayu"
 git-repository-url = "https://www.github.com/tlackemann/nullfish.dev"
 git-repository-icon = "fa-github"
+no-section-label = true
+site-url = "https://nullfish.dev"
 
 [output.html.print]
 enable = false
