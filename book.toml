@@ -14,7 +14,7 @@ assets_version = "2.1.0" # DO NOT EDIT: Managed by `mdbook-catppuccin install`
 [output]
 
 [output.html]
-additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-admonish.css", "./css/last-changed.css"]
+additional-css = ["./theme/catppuccin.css", "./theme/catppuccin-admonish.css", "./css/custom.css"]
 default-theme = "ayu"
 preferred-dark-theme = "ayu"
 git-repository-url = "https://www.github.com/tlackemann/nullfish.dev"
