@@ -13,7 +13,7 @@ I do not have social media, but you can send me an email at hello[at]nullfish[do
 
 ## Work
 
-I currently work as a Senior Software Engineer for [Narmi](https://narmi.com).
+I currently work as an Engineering Lead for [Narmi](https://narmi.com).
 
 I was the previous founder to Astral TableTop and most recently the former co-founder to [dddice](https://dddice.com).
 
