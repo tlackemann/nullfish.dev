@@ -4,6 +4,17 @@
 
 [Play Refractor](https://refractor-game.com)
 
+<div class="warning">
+<strong>Update January 14, 2025</strong>: Writing puzzles takes a lot of thought and time. Despite efforts to try and write an
+automatic way to create levels, nothing has worked well. The truth is, creating levels takes time and effort and
+is becoming a chore for me to do daily.
+
+I plan to write more about the process but for now, there will be no more daily puzzles.
+
+I do wish to pick up the project in the future. I had ideas and did some preliminary programming to support ideas like "
+portals". I will post an update if/when any such progress happens.
+</div>
+
 ## Concept
 
 I wanted something fun for my newborn daughter to eventually play. I also wanted to build something semi-educational.
@@ -11,7 +22,7 @@ I wanted something fun for my newborn daughter to eventually play. I also wanted
 Refractor is a game about combining colors to reach the goals. The goal is to teach primary and secondary colors and
 sharpen problem solving skills.
 
-New puzzles daily!
+~~New puzzles daily!~~
 
 ## Tech
 
