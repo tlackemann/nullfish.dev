@@ -1,0 +1,25 @@
+baseURL = 'https://nullfish.dev/'
+languageCode = 'en-us'
+title = 'nullfish.dev'
+theme = 'hugo-theme-console'
+
+[params]
+  titleCutting = true
+  description = 'nullfish.dev is a personal website for nullfish.'
+  animateStyle = 'animated zoomIn fast'
+
+  [[params.navlinks]]
+    name = "about/"
+    url = "/about/"
+
+    [[params.navlinks]]
+    name = "kb/"
+    url = "/kb/"
+
+    [[params.navlinks]]
+    name = "music/"
+    url = "/music/"
+
+    [[params.navlinks]]
+    name = "posts/"
+    url = "/posts/"

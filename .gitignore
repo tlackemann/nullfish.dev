@@ -1,0 +1,5 @@
+*.swp
+*.log
+themes/hugo-theme-console/exampleSite
+public/
+*.lock

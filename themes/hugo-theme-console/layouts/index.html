@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<h1>Hello</h1>
+<p>
+    I'm Tom. In 1998, I published my first website. 25-years later, I am still creating sites and applications for the web.
+</p>
+<p>
+    I do not have social media, but you can send me an email at hello[at]nullfish[dot]dev.
+</p>
+
+<p class="nullfish">
+    {{ $logo := resources.Get "nullfish-logo.png" }}
+    <img src="{{ $logo.RelPermalink }}" alt="nullfish logo" height="64" width="auto" />
+    <small>Logo inspired by the <a href="https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect" target="_blank">Rust "turbofish"</a></small>
+</p>
+
+<h1>Work</h1>
+<p>
+    I currently work as an Engineering Lead for <a href="https://narmi.com" target="_blank">Narmi</a>.
+    I'm also building <a href="https://overseer.studio" target="_blank">Overseer Studio</a>.
+</p>
+<p>
+    I was the previous founder to Astral TableTop and the former co-founder to <a href="https://dddice.com" target="_blank">dddice</a>.
+</p>
+<p>
+    I have a passion for building software that solves real problems in niche markets, particuarly tabletop roleplaying games.
+</p>
+
+<h1>Latest posts</h1>
+<div class="posts-list">
+{{ with .Site.GetPage "/posts" }}
+    {{ range first 3 (sort .Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .Date | time.Format ":date_medium" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
